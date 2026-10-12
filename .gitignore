@@ -1,0 +1,8 @@
+# Cópia de trabalho do Sites e arquivos locais
+site/
+publicacao/
+*.zip
+__pycache__/
+.env
+.env.*
+!.env.example

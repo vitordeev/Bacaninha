@@ -1,0 +1,5 @@
+window.BACANINHA_CATALOGO = {
+bolos: {title:'O sabor da sua festa.',description:'Dos clássicos de chocolate aos sabores com frutas. Encontre o seu favorito.',items:['Brigadeiro','Brigadeiro com Morango','Prestígio','Sensação','Beijinho','Dois Amores','Kit-Kat','Ninho','Ninho com Frutas Vermelhas','Ninho com Nutella','Ninho com Morango','Abacaxi','Abacaxi com Coco','Doce de Leite','Doce de Leite com Ameixa','Doce de Leite com Coco','4 Leites','Creme Belga','Mousse de Maracujá','Mousse de Chocolate','Nutella']},
+doces: {title:'Pequenos grandes favoritos.',description:'Um docinho, mais um, e uma mesa cheia de sabores para compartilhar.',items:['Brigadeiro Tradicional','Beijinho','Paçoca com Amendoim','Leite Ninho','Dois Amores','Maracujá','Brigadeiro de Limão','Camafeu','Olho de Sogra','Brigadeiro Gourmet','Brigadeiro Romeu & Julieta','Beijinho com Erva-Doce','Cupcakes']},
+salgados: {title:'Para reunir e compartilhar.',description:'Os clássicos que fazem parte da festa. Escolha suas opções e consulte as quantidades.',items:['Coxinha','Bolinho de Queijo','Bolinho de Carne','Risole','Kibe','Enroladinho de Salsicha','Empada','Esfira']}
+};
