@@ -1,6 +1,6 @@
 # Bacaninha
 
-![Logo da Bacaninha](dist/assets/bacaninha-logo.png)
+<img src="dist/assets/bacaninha-logo.png" alt="Logo da Bacaninha" width="220">
 
 Site: [bacaninha.netlify.app](https://bacaninha.netlify.app)
 
