@@ -1,5 +1,9 @@
 # Bacaninha
 
+![Logo da Bacaninha](dist/assets/bacaninha-logo.png)
+
+Site: [bacaninha.netlify.app](https://bacaninha.netlify.app)
+
 Landing page responsiva para bolos, doces, salgados e buffets. Desenvolvida com HTML, CSS e JavaScript, sem framework, build obrigatório, cadastro, pagamento ou banco de dados. Os pedidos são encaminhados para WhatsApp.
 
 ## Visualizar
