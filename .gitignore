@@ -11,4 +11,7 @@ __pycache__/
 /Imagens de Referencia/
 /CONTEXTO_PROJETO.md
 /RETOMAR.md
-/dist/assets/*-original.*
+/src/assets/*-original.*
+/src/assets/*-referencia.*
+
+.openai/
